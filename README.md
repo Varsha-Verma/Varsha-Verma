@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Varsha-Verma
-- 👀 I’m interested in Cloud
-- 🌱 I’m currently learning multicloud technologies
+- 👀 I’m interested in Cloud 
+- 🌱 I’m currently learning multicloud technologies and Devops
 - 📫 How to reach me https://www.linkedin.com/in/varsha-verma-182a04148/
 
 <!---
